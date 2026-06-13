@@ -1,0 +1,6 @@
+fun openWhatsApp(phone: String) {
+    val url = "https://wa.me/$phone"
+    val intent = Intent(Intent.ACTION_VIEW)
+    intent.data = Uri.parse(url)
+    startActivity(intent)
+}
