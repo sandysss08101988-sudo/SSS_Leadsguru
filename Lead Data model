@@ -1,0 +1,7 @@
+data class Lead(
+    val id: Int,
+    val name: String,
+    val phone: String,
+    val course: String,
+    val status: String
+)
