@@ -13,3 +13,5 @@ Features:
 
 Theme:
 Black
+
+Initial project setup
