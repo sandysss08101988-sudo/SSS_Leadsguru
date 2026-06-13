@@ -1,0 +1,21 @@
+SSS_Leadsguru/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/sssleadsguru/
+│   │   │   │   ├── LoginActivity.kt
+│   │   │   │   ├── HomeActivity.kt
+│   │   │   │   ├── LeadFormActivity.kt
+│   │   │   │   ├── LeadTrackerActivity.kt
+│   │   │   │   ├── DashboardActivity.kt
+│   │   │   │   └── WhatsAppActivity.kt
+│   │   │   └── res/
+│   │   │       ├── layout/
+│   │   │       ├── drawable/
+│   │   │       └── values/
+│   │
+│   └── build.gradle
+│
+├── README.md
+└── .gitignore
